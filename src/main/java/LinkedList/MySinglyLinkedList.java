@@ -3,7 +3,7 @@ package LinkedList;
 import java.util.ArrayList;
 
 public class MySinglyLinkedList {
-    Node head;
+    Node  head;
     Node tail;
     int size;
 
