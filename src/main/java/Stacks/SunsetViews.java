@@ -31,5 +31,6 @@ public class SunsetViews {
         if(direction.equalsIgnoreCase("west")) Collections.reverse(stack);
 
         return new ArrayList<Integer>(stack);
+
     }
 }
